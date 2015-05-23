@@ -10,3 +10,4 @@ git pull
 git mergetool
 git commit
 git push
+git commit -a -m "V2.0"
