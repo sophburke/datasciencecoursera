@@ -1,0 +1,12 @@
+This is the first commit Version.
+
+Put more text into thie fir for any R programming 
+
+git clone <repository_url>
+git add <untracked_file>
+git add <changed_file>
+git commit –m "..."
+git pull
+git mergetool
+git commit
+git push
